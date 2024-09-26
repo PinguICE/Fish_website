@@ -1,0 +1,47 @@
+.container {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+.titlestyle {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    margin: 0;
+}
+
+.linkstyle {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    display: inline-block;
+}
+
+.box {
+    width: 300px;
+    padding: 20px;
+    border: 5px solid #333;
+    margin: 20px;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+
+.textstyle {
+    font-family: 'Roboto', sans-serif;
+    font-size: larger;
+}
+
+.infotextstyle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.boxstyle {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 5px solid #333;
+    margin: 30px;
+    background-color: lightblue;
+}
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
